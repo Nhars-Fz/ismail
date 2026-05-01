@@ -39,7 +39,7 @@ export default function Footer({ darkMode }: FooterProps) {
 
         {/* Bottom: Created By */}
         <div className="text-center text-sm text-gray-400">
-          Created by <span ><a href="https://github.com/FzHars" className="hover:opacity-50 hover:underline text-base text-white">Fz Shardn</a></span>
+          Created by <span ><a href="https://www.instagram.com/fz_waz" className="hover:opacity-50 hover:underline text-base text-white">Fz Shardn</a></span>
         </div>
       </div>
     </footer>
