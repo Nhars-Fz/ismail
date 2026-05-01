@@ -16,9 +16,9 @@ interface GalleryProps {
 const images: Image[] = [
   { id: 1, url: 'https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=1000&auto=format&fit=crop', title: 'Urban Silence', category: 'Street' },
   { id: 2, url: 'https://images.unsplash.com/photo-1493863641943-9b68992a8d07?q=80&w=1000&auto=format&fit=crop', title: 'Desert Breath', category: 'Nature' },
-  { id: 3, url: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000&auto=format&fit=crop', title: 'Inner Mirror', category: 'Portrait' },
+  { id: 3, url: 'https://images.pexels.com/photos/16628677/pexels-photo-16628677.jpeg'},
   { id: 4, url: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop', title: 'Mist Peaks', category: 'Nature' },
-  { id: 5, url: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=1000&auto=format&fit=crop', title: 'Confidence', category: 'Portrait' },
+  { id: 5, url: 'https://images.pexels.com/photos/6395651/pexels-photo-6395651.jpeg' },  
   { id: 6, url: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1000&auto=format&fit=crop', title: 'City Motion', category: 'Street' },
 ];
 
