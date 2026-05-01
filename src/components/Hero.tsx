@@ -20,7 +20,7 @@ export default function Hero({ darkMode }: HeroProps) {
           <div className="relative w-full max-w-[200px] md:max-w-[420px]">
             <div className="rounded-tl-4xl rounded-br-4xl relative aspect-[4/5] bg-[#3B3C46] overflow-hidden">
               <img
-                src="https://scontent-cgk2-1.cdninstagram.com/v/t51.2885-19/384523397_3647843012129715_3838541638158315905_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGgTN5ed0FnHeV-m-VN_DMDfeG1SIhvotGu7JnwdgO_kUY8cnATXobgCGCmIcB8nrA&_nc_ohc=lL-kSBqataoQ7kNvwEiRVwa&_nc_gid=3tRCPlTqjJqOIl8a25wZJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5snlGRA0G0PdyBCJHNO7QdEFdImA04mjsW9GOtNNbexw&oe=69FA0E6F&_nc_sid=8b3546"
+                src="/src/img/ism.jpg"
                 alt="Photographer"
                 className="w-full h-full object-cover brightness-90"
                 referrerPolicy="no-referrer"
