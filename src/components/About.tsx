@@ -15,7 +15,7 @@ export default function About({ darkMode }: AboutProps) {
           className="flex-1"
         >
           <img 
-            src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000&auto=format&fit=crop" 
+            src="https://images.pexels.com/photos/36925866/pexels-photo-36925866.jpeg" 
             alt="Artistic Portrait"
             className="w-full max-w-lg mx-auto md:ml-0 aspect-[3/4] object-cover rounded-lg shadow-2xl"
             referrerPolicy="no-referrer"
