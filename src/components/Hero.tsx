@@ -1,5 +1,6 @@
 import { motion } from "motion/react";
 import { Instagram, Linkedin, Facebook } from "lucide-react"; 
+import heroImage from "../img/ism.jpg"; 
 interface HeroProps {
   darkMode: boolean;
 }
@@ -20,7 +21,7 @@ export default function Hero({ darkMode }: HeroProps) {
           <div className="relative w-full max-w-[200px] md:max-w-[420px]">
             <div className="rounded-tl-4xl rounded-br-4xl relative aspect-[4/5] bg-[#3B3C46] overflow-hidden">
               <img
-                src="/img/ism.jpg"
+                src={heroImage}
                 alt="Photographer"
                 className="w-full h-full object-cover brightness-90"
                 referrerPolicy="no-referrer"
